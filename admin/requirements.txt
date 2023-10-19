@@ -14,3 +14,4 @@ docker-py
 tabulate
 apscheduler
 certbot
+validators>=0.21.0 # not directly required, pinned by Snyk to avoid a vulnerability
